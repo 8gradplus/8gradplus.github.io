@@ -1,2 +1,1 @@
-# Talks
-* or clone and open index.html with any browser
+# https://8gradplus.github.io/
